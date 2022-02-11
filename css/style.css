@@ -1,0 +1,32 @@
+.border-none{
+    border: none !important;
+}
+.s-b-h{
+    height:90px;
+    border: none;
+    background:rgb(48, 92, 214) ;
+}
+.navbar{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+.G-C-1{
+    background: linear-gradient(150deg, #e65c00, #F9D423);
+    border-radius: 15px;
+    border: 5px solid wheat
+}
+.col input{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: rgb(0, 0, 0);
+    height: 40px;
+}
+.rounded-5{
+    border-radius: 12px;
+}
+.h-125{
+    height: 125px;
+}
+.h-240{
+    height: 240px;
+}
